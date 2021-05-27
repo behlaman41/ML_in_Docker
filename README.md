@@ -25,5 +25,5 @@ predict-salary.py : This file loads the machine learning that is created by runn
 ```
  
 ***
-![67fb22aa0142b62effc23870f80cf39d](https://user-images.githubusercontent.com/71714243/111205712-892b6d00-85ed-11eb-9c7b-3e97a1af880a.jpg)
+![67fb22aa0142b62effc23870f80cf39d](https://images.app.goo.gl/6KMDyALtJapkDd8Y6)
  
